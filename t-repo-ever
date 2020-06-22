@@ -1,0 +1,63 @@
+[33mcommit 1afcc48a212b6055e078852154c903174c2a98a9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rsp2050 <63575176+rsp2050@users.noreply.github.com>
+Date:   Wed Jun 10 17:15:44 2020 +0530
+
+    Add files via upload
+
+[33mcommit 9bef0bdc3d236b4a2901def7e0879a8f258b028f[m
+Merge: 5b89936 3281a71
+Author: rsp2050 <63575176+rsp2050@users.noreply.github.com>
+Date:   Wed Jun 10 17:11:47 2020 +0530
+
+    Merge pull request #3 from rsp2050/new-branch-2
+    
+    More changes to the README
+
+[33mcommit 3281a71f5e82964b87ab5f23cc4007527e8bad32[m[33m ([m[1;31morigin/new-branch-2[m[33m, [m[1;32mnew-branch-2[m[33m)[m
+Merge: 57ce4e0 5b89936
+Author: First Last <you@email.com>
+Date:   Wed Jun 10 17:11:08 2020 +0530
+
+    Commit to resolve merge conflict
+
+[33mcommit 5b89936d3cdb6e1b585755bf63620828a3f602ee[m
+Merge: e228fb6 f3fa17c
+Author: rsp2050 <63575176+rsp2050@users.noreply.github.com>
+Date:   Wed Jun 10 17:06:11 2020 +0530
+
+    Merge pull request #2 from rsp2050/new-branch-1
+    
+    Changes to the README
+
+[33mcommit 57ce4e0fb1f7d1df84996e67016e5acc723893ee[m
+Author: First Last <you@email.com>
+Date:   Wed Jun 10 17:04:49 2020 +0530
+
+    More changes to the README
+
+[33mcommit f3fa17cfae1286db9f7119c9636e4bb03f4172a1[m[33m ([m[1;31morigin/new-branch-1[m[33m, [m[1;32mnew-branch-1[m[33m)[m
+Author: First Last <you@email.com>
+Date:   Wed Jun 10 17:00:23 2020 +0530
+
+    Changes to the README
+
+[33mcommit e228fb6c8c2968eef7a3c827d146d243605772fd[m
+Merge: e95ecae 7450107
+Author: rsp2050 <63575176+rsp2050@users.noreply.github.com>
+Date:   Tue Jun 9 22:57:56 2020 +0530
+
+    Merge pull request #1 from rsp2050/myfeaturebranch
+    
+    1-My first commit
+
+[33mcommit 7450107562c2bd1fd3fd4f947a5c1a0c104fc8b4[m[33m ([m[1;31morigin/myfeaturebranch[m[33m, [m[1;32mmyfeaturebranch[m[33m)[m
+Author: First Last <you@email.com>
+Date:   Tue Jun 9 19:19:13 2020 +0530
+
+    My first commit
+
+[33mcommit e95ecaed842556e9939fa0e06e398d540431b60b[m
+Author: rsp2050 <63575176+rsp2050@users.noreply.github.com>
+Date:   Tue Jun 9 18:43:12 2020 +0530
+
+    Initial commit
